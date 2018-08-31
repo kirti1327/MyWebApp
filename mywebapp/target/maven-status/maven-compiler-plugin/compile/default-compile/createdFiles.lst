@@ -1,0 +1,9 @@
+mywebapp\dao\CampaignDaoImpl.class
+mywebapp\config\WebInitializer.class
+mywebapp\controller\CampaignController.class
+mywebapp\dao\CampaignDao.class
+mywebapp\config\WebConfig.class
+mywebapp\service\CampaignService.class
+mywebapp\service\CampaignServiceImpl.class
+mywebapp\model\Template.class
+mywebapp\model\Campaign.class
